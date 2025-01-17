@@ -1,0 +1,6 @@
+pymongo
+requests
+BeautifulSoup
+CurrencyConverter
+word2number
+imdb
